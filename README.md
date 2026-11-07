@@ -1,10 +1,10 @@
-# Day-1-Kelompok_4_Maysora-Hania-Nugroho
+# Day-1-Kelompok4-RDR2_Maysora Hania Nugroho
 Dokumentasi kegiatan Workshop Day 1
 # Dokumentasi Workshop Day 1
 
 **Nama:** Maysora Hania Nugroho
 
-**Kelompok:** Kelompok 4
+**Kelompok:** Kelompok 4-RDR2
 
 ## Deskripsi Repository
 Repository ini dibuat sebagai tempat penyimpanan dan dokumentasi kegiatan Workshop Day 1. Repository ini berisi catatan materi, rangkuman pembelajaran, dokumentasi kegiatan, serta hasil praktik selama workshop berlangsung.
